@@ -1,12 +1,10 @@
-https://github.com/tgmarinho/Ecoleta/raw/master/assets/banner.png
-
 # App-Site-Ecoleta
 Projeto de Site e Aplicativo chamado Ecoleta, para coleta de lixos e reciclagens com back end completo.
 
 # Projeto funcionando no ar no meu perfil do Heroku:
 https://dashboard.heroku.com/apps/site-ecoleta1
 
-💻 # Sobre o projeto
+# 💻 Sobre o projeto
 
 ♻️ Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
 
@@ -39,7 +37,7 @@ Cadastrar e pesquisar novos pontos de coleta.
 Projeto desenvolvido durante a NLW - Next Level Week oferecida pela Rocketseat. 
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
-🛠 # Tecnologias
+# 🛠 Tecnologias
 
 Node.js
 
@@ -53,7 +51,7 @@ JSON
 
 CSS3
 
-🚀 # Como executar o projeto
+# 🚀 Como executar o projeto
 
 Podemos considerar este projeto como sendo divido em duas partes:
 
@@ -69,39 +67,39 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 Além disto é bom ter um editor para trabalhar com o código como VSCode
 
 🎲 # Rodando o Back End (servidor)
-# Clone este repositório
+Clone este repositório
 $ git clone https://github.com/Nicole-Bidigaray/App-Site-Ecoleta
 
-# Acesse a pasta do projeto no terminal/cmd
+Acesse a pasta do projeto no terminal/cmd
 $ cd App-Site-Ecoleta
 
-# Vá para a pasta src
+Vá para a pasta src
 $ cd src
 
-# Instale as dependências
+Instale as dependências
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
+Execute a aplicação em modo de desenvolvimento
 $ npm run dev:server
 
-# O servidor inciará na porta:5000 - acesse http://localhost:5000 
+O servidor inciará na porta:5000 - acesse http://localhost:5000 
 
-🧭 # Rodando a aplicação web (Front End)
-# Clone este repositório
+# 🧭 Rodando a aplicação web (Front End)
+Clone este repositório
 $ git clone https://github.com/Nicole-Bidigaray/App-Site-Ecoleta
 
-# Acesse a pasta do projeto no seu terminal/cmd
+Acesse a pasta do projeto no seu terminal/cmd
 $ cd App-Site-Ecoleta
 
-# Vá para a pasta da aplicação Front End
+Vá para a pasta da aplicação Front End
 $ cd src/views
 
-# Instale as dependências
+Instale as dependências
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
+Execute a aplicação em modo de desenvolvimento
 $ npm run start
 
-# A aplicação será aberta na porta:5000 - acesse http://localhost:5000
+A aplicação será aberta na porta:5000 - acesse http://localhost:5000
 
 Feito com ❤️ por Nicole Bidigaray 👋🏽 Entre em contato!
