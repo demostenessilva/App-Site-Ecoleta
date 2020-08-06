@@ -68,36 +68,46 @@ Além disto é bom ter um editor para trabalhar com o código como VSCode
 
 🎲 # Rodando o Back End (servidor)
 Clone este repositório
+
 $ git clone https://github.com/Nicole-Bidigaray/App-Site-Ecoleta
 
 Acesse a pasta do projeto no terminal/cmd
+
 $ cd App-Site-Ecoleta
 
 Vá para a pasta src
+
 $ cd src
 
 Instale as dependências
+
 $ npm install
 
 Execute a aplicação em modo de desenvolvimento
+
 $ npm run dev:server
 
 O servidor inciará na porta:5000 - acesse http://localhost:5000 
 
 # 🧭 Rodando a aplicação web (Front End)
 Clone este repositório
+
 $ git clone https://github.com/Nicole-Bidigaray/App-Site-Ecoleta
 
 Acesse a pasta do projeto no seu terminal/cmd
+
 $ cd App-Site-Ecoleta
 
 Vá para a pasta da aplicação Front End
+
 $ cd src/views
 
 Instale as dependências
+
 $ npm install
 
 Execute a aplicação em modo de desenvolvimento
+
 $ npm run start
 
 A aplicação será aberta na porta:5000 - acesse http://localhost:5000
