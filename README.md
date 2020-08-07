@@ -43,8 +43,6 @@ Node.js
 
 Java Script
 
-Type Script
-
 Jquery
 
 JSON
